@@ -40,10 +40,6 @@ try:
     streamlit.dataframe(fruityvice_normalized)
 
 
-streamlit.write('The user entered ', fruit_choice)
-
-
-
 
 streamlit.stop()
 
